@@ -1,0 +1,1 @@
+print("or jani kya hal hai")
